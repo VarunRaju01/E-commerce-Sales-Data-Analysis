@@ -39,7 +39,6 @@ The following steps were performed:
 - Handled missing values in critical fields
 - Converted columns to correct data types
 - Removed invalid quantity and price values
-- Standardized country names
 - Removed duplicate records
 - Reset index for a clean data structure
 
