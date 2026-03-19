@@ -77,6 +77,14 @@ The analysis includes:
 - Apply cautious pricing strategies due to weak price sensitivity
 
 ---
+## Power BI Dashboard
+- Built an interactive dashboard using Power BI
+- Visualized KPIs such as Revenue, Orders, and AOV
+- Analyzed product performance, customer contribution, and regional sales
+- Used scatter plots to identify relationship between quantity and revenue
+- Applied Top N filtering to identify key revenue driving products
+
+---
 
 ## Tools & Technologies Used
 - Python
@@ -85,4 +93,6 @@ The analysis includes:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Power BI
+
 
